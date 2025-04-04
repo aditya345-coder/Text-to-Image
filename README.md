@@ -24,6 +24,13 @@ app.py
 requirements.txt
 ```
 
+## 🌐 Live Demo
+
+Check out the live version of this project here:  
+👉 **[Access the App](https://huggingface.co/spaces/Knight090/TextToImage)**
+
+> *Note: It may take a few seconds to load due to model initialization.*
+
 ---
 
 ## 🛠️ Getting Started
